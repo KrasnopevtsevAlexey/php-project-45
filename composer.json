@@ -1,15 +1,20 @@
 {
     "name": "hexlet/code",
+    "description": "A set of brain games for training logic and memory",
     "type": "project",
     "license": "MIT",
     "autoload": {
          "files": [
-       "bin/brain-games.php"
+       "bin/brain-games"
     ],
         "psr-4": {
             "Hexlet\\Code\\": "src/"
         }
     },
+    "bin": [
+   "bin/brain-games"
+   ],
+
     "authors": [
         {
             "name": "AlexeyKrasnopevtsev"
