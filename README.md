@@ -8,3 +8,7 @@
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=KrasnopevtsevAlexey_php-project-45&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=KrasnopevtsevAlexey_php-project-45)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=KrasnopevtsevAlexey_php-project-45&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=KrasnopevtsevAlexey_php-project-45)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=KrasnopevtsevAlexey_php-project-45&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=KrasnopevtsevAlexey_php-project-45)
+
+## Демонстрация игры Brain-Even
+
+[![asciicast](https://asciinema.org/a/vjJpXejFRpVIbfHo.svg)](https://asciinema.org/a/vjJpXejFRpVIbfHo)

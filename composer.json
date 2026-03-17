@@ -4,12 +4,16 @@
     "type": "project",
     "license": "MIT",
     "autoload": {
+	"files": [
+            "src/Games/Even.php"
+        ],
         "psr-4": {
             "BrainGames\\": "src/"
         }
     },
     "bin": [
-   "bin/brain-games"
+   "bin/brain-games",
+   "bin/brain-even"
    ],
 
     "authors": [
