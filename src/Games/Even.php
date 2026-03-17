@@ -16,7 +16,7 @@ function runGames(): void
 
 	for ($i = 0; $i < ROUNDS_COUNT; $i++) {
         // @SuppressWarnings
-        $number = mt_rand(1, 100);
+        $number = random_int(1, 100);
         
         
         line("Question: %s", $number);
