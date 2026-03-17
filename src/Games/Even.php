@@ -15,7 +15,7 @@ function runGames(): void
     line("Answer \"yes\" if the number is even, otherwise answer \"no\".");
 
 	for ($i = 0; $i < ROUNDS_COUNT; $i++) {
-        
+        // @SuppressWarnings
         $number = mt_rand(1, 100);
         
         
