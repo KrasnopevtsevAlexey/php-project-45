@@ -7,10 +7,13 @@ brain-games:
 brain-even:
 	./bin/brain-even
 
+brain-calc:
+	./bin/brain-calc
+
 validate:
 	composer validate
 
 lint:
 	composer exec --verbose phpcs -- --standard=PSR12 src bin
 
-.PHONY: install brain-games validate
+.PHONY: install brain-games brain-even brain-calc validate

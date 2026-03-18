@@ -12,3 +12,7 @@
 ## Демонстрация игры Brain-Even
 
 [![asciicast](https://asciinema.org/a/vjJpXejFRpVIbfHo.svg)](https://asciinema.org/a/vjJpXejFRpVIbfHo)
+
+## Демонстрация игры Brain-Calc
+
+[![asciicast](https://asciinema.org/a/yruu4RqzIWOCEoFj.svg)](https://asciinema.org/a/yruu4RqzIWOCEoFj)

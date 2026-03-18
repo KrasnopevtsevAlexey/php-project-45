@@ -1,21 +1,23 @@
 {
     "name": "hexlet/code",
-    "description": "A set of brain games for training logic and memory",
+    "description": "Brain games project",
     "type": "project",
     "license": "MIT",
     "autoload": {
-	"files": [
-            "src/Games/Even.php"
+        "files": [
+            "src/Engine.php",
+	     "src/Games/Even.php",
+             "src/Games/Calc.php"
         ],
         "psr-4": {
             "BrainGames\\": "src/"
         }
     },
     "bin": [
-   "bin/brain-games",
-   "bin/brain-even"
-   ],
-
+        "bin/brain-games",
+        "bin/brain-even",
+        "bin/brain-calc"
+    ],
     "authors": [
         {
             "name": "AlexeyKrasnopevtsev"
