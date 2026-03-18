@@ -8,7 +8,8 @@
             "src/Engine.php",
 	     "src/Games/Even.php",
              "src/Games/Calc.php",
-	     "src/Games/Gcd.php"
+	     "src/Games/Gcd.php",
+	     "src/Games/Progression.php"
         ],
         "psr-4": {
             "BrainGames\\": "src/"
@@ -18,7 +19,8 @@
         "bin/brain-games",
         "bin/brain-even",
         "bin/brain-calc",
-	"bin/brain-gcd"
+	"bin/brain-gcd",
+	"bin/brain-progression"
     ],
     "authors": [
         {
@@ -26,10 +28,10 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {
-        "wp-cli/php-cli-tools": "^0.12.7"
-    },
     "require-dev": {
         "squizlabs/php_codesniffer": "^4.0"
+    },
+    "require": {
+        "wp-cli/php-cli-tools": "^0.12.7"
     }
 }
