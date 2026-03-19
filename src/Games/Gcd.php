@@ -23,7 +23,7 @@ function runGame(): void
 }
 
 
-function gcd($a, $b)
+function gcd(int $a, int $b): int
 {
     $a = abs($a);
     $b = abs($b);
