@@ -3,8 +3,6 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-use BrainGames\Cli\Greeting;  
+use function BrainGames\Cli\Greeting\runGame;
 
-$userName = Greeting::hello();
-
-
+runGame();
