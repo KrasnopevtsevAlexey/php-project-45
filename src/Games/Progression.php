@@ -20,9 +20,9 @@ $gameDescription = 'What number is missing in the progression?';
 
 $gameData = [];
     for ($i = 0; $i < \BrainGames\Engine\ROUNDS_COUNT; $i++) {
-        $length = rand(PROGRESSION_LENGTH_MIN, PROGRESSION_LENGTH_MAX);
-        $start = rand(START_MIN, START_MAX);
-        $step = rand(STEP_MIN, STEP_MAX);
+        $length = random_int(PROGRESSION_LENGTH_MIN, PROGRESSION_LENGTH_MAX);
+        $start = random_int(START_MIN, START_MAX);
+        $step = random_int(STEP_MIN, STEP_MAX);
         $hiddenPosition = random_int(0, $length - 1);
         
         $progression = [];
