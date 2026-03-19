@@ -24,3 +24,7 @@
 ## Демонстрация игры Brain-Progression
 
 [![asciicast](https://asciinema.org/a/ntxdE71qCSvdAgcs.svg)](https://asciinema.org/a/ntxdE71qCSvdAgcs)
+
+## Демонстрация игры Brain-Prime
+
+[![asciicast](https://asciinema.org/a/2fh3PkGjBD4Sng54.svg)](https://asciinema.org/a/2fh3PkGjBD4Sng54)
