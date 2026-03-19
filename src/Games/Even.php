@@ -10,7 +10,7 @@ function runGame(): void
     
     $gameData = [];
     for ($i = 0; $i < \BrainGames\Engine\ROUNDS_COUNT; $i++) {
-        $number = mt_rand(1, 100);
+        $number = random_int(1, 100);
         $question = (string) $number;
         $correctAnswer = ($number % 2 === 0) ? 'yes' : 'no';
         
