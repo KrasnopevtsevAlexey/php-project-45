@@ -18,7 +18,7 @@ function runEngine(string $gameDescription, array $gameData): void
         line("Question: %s", $question);
         $answer = \cli\prompt('Your answer');
 
-        if ($answer == $correct) {
+        if ($answer === $correct) {
             line('Correct!');
         } else {
             line("'%s' is wrong answer ;(. Correct answer was '%s'.", $answer, $correct);

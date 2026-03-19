@@ -32,7 +32,8 @@
     ],
     "minimum-stability": "stable",
     "require-dev": {
-        "squizlabs/php_codesniffer": "^4.0"
+        "squizlabs/php_codesniffer": "^4.0",
+        "phpstan/phpstan": "^2.1"
     },
     "require": {
         "wp-cli/php-cli-tools": "^0.12.7"
