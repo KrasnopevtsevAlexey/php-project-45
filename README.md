@@ -61,7 +61,7 @@
 
 ## Демонстрация игры Brain-Even
 
-[![asciicast](https://asciinema.org/a/https://asciinema.org/a/vjJpXejFRpVIbfHo)](https://asciinema.org/a/https://asciinema.org/a/vjJpXejFRpVIbfHo)
+[![asciicast](https://asciinema.org/a/vjJpXejFRpVIbfHo.svg)](https://asciinema.org/a/vjJpXejFRpVIbfHo)
 
 ## Демонстрация игры Brain-Calc
 
