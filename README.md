@@ -59,22 +59,7 @@
 ./bin/brain-calc
 # и т.д.
 
-## Демонстрация игры Brain-Even
 
-[![asciicast](https://asciinema.org/a/vjJpXejFRpVIbfHo.svg)](https://asciinema.org/a/vjJpXejFRpVIbfHo)
+## 📊 Демонстрация всех игр
 
-## Демонстрация игры Brain-Calc
-
-[![asciicast](https://asciinema.org/a/yruu4RqzIWOCEoFj.svg)](https://asciinema.org/a/yruu4RqzIWOCEoFj)
-
-## Демонстрация игры Brain-Gcd
-
-[![asciicast](https://asciinema.org/a/lGY2d3miS0whPQe5.svg)](https://asciinema.org/a/lGY2d3miS0whPQe5)
-
-## Демонстрация игры Brain-Progression
-
-[![asciicast](https://asciinema.org/a/ntxdE71qCSvdAgcs.svg)](https://asciinema.org/a/ntxdE71qCSvdAgcs)
-
-## Демонстрация игры Brain-Prime
-
-[![asciicast](https://asciinema.org/a/2fh3PkGjBD4Sng54.svg)](https://asciinema.org/a/2fh3PkGjBD4Sng54)
+[![asciicast](https://asciinema.org/a/ZQ5f6c1YBoSWdflE.svg)](https://asciinema.org/a/ZQ5f6c1YBoSWdflE)
