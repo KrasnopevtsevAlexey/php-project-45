@@ -64,6 +64,4 @@
 
 [![asciicast](https://asciinema.org/a/ZQ5f6c1YBoSWdflE.svg)](https://asciinema.org/a/ZQ5f6c1YBoSWdflE)
 
-<a href="https://asciinema.org/a/ZQ5f6c1YBoSWdflE">
-  <img src="https://asciinema.org/a/ZQ5f6c1YBoSWdflE.svg">
-</a>
+
