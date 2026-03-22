@@ -18,13 +18,14 @@ function runEngine(string $gameDescription, array $gameData): void
         line("Question: %s", $question);
         $answer = prompt('Your answer');
 
-        if ($answer === $correct) {
-            line('Correct!');
-            continue;
-        }
+        if ($answer !== $correct) {
             line("'%s' is wrong answer ;(. Correct answer was '%s'.", $answer, $correct);
             line("Let's try again, %s!", $name);
             return;
+        }
+
+        line('Correct!');
     }
+
     line("Congratulations, %s!", $name);
 }
